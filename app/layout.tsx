@@ -15,7 +15,7 @@ export const metadata = {
   metadataBase: new URL("https://bayumaulanaikhsan.my.id/"),
   title: "Rinaldi Saragih | Portfolio",
   description:
-    "Bayu Maulana Ikhsan is a web developer with 2 years of experience.",
+    "IT Enthusiast | Ex - IT Support Intern at Telkomsel | Undergraduate Information Technology Student at Telkom University.",
   author: "Rinaldi Saragih",
   subject: "Web Development",
   copyright: "© Rinaldi Saragih",

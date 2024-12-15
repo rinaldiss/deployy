@@ -10,9 +10,9 @@ import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const inter = Inter({ subsets: ["latin"] });
-const baseUrlMeta = `${new URL("https://rinaldisaragih-dev.my.id/")}`;
+const baseUrlMeta = `${new URL("https://rinaldi-dev.vercel.app/")}`;
 export const metadata = {
-  metadataBase: new URL("rinaldisaragih-dev.my.id/"),
+  metadataBase: new URL("https://rinaldi-dev.vercel.app/"),
   title: "Rinaldi Saragih | Portfolio",
   description:
     "IT Enthusiast | Ex - IT Support Intern at Telkomsel | Undergraduate Information Technology Student at Telkom University.",

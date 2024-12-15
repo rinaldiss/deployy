@@ -10,7 +10,7 @@ export default function SectionHeading({ children }: SectionHeadingProps) {
     <div>
       {/* <Image
         src="/images/shape/shape-experience.svg"
-        alt="Bayu Maulana Ikhsan"
+        alt="Rinaldi Saragih"
         width="50"
         height="192"
         quality="95"

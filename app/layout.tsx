@@ -10,9 +10,9 @@ import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const inter = Inter({ subsets: ["latin"] });
-const baseUrlMeta = `${new URL("https://bayumaulanaikhsan.my.id/")}`;
+const baseUrlMeta = `${new URL("https://rinaldisaragih-dev.my.id/")}`;
 export const metadata = {
-  metadataBase: new URL("https://bayumaulanaikhsan.my.id/"),
+  metadataBase: new URL("rinaldisaragih-dev.my.id/"),
   title: "Rinaldi Saragih | Portfolio",
   description:
     "IT Enthusiast | Ex - IT Support Intern at Telkomsel | Undergraduate Information Technology Student at Telkom University.",
@@ -56,22 +56,6 @@ export const metadata = {
       {
         url: `${baseUrlMeta}images/profile.jpg`,
         alt: "Rinaldi Saragih",
-      },
-      {
-        url: `${baseUrlMeta}images/project/barterinc/1.png`,
-        alt: "Portofolio BarterInc",
-      },
-      {
-        url: `${baseUrlMeta}images/project/apb/1.png`,
-        alt: "Portofolio APB Roleplay Donate & SHop",
-      },
-      {
-        url: `${baseUrlMeta}images/project/mylms/1.png`,
-        alt: "Portofolio My LMS Reminder",
-      },
-      {
-        url: `${baseUrlMeta}images/project/clinic/1.png`,
-        alt: "Healthy Happy Clinic",
       },
     ],
     description:
